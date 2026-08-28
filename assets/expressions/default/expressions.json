@@ -1,0 +1,15 @@
+{
+  "normal": {},
+  "smile": {"leftEye":"./eyes/smile_left.png","rightEye":"./eyes/smile_right.png","mouth":"./mouths/smile.png","layout":{"eyes":{"scale":[1.55,1.55],"offset":[0,-0.07,0]},"mouth":{"scale":[1.25,1.15],"offset":[0,-0.02,0]}}},
+  "happy": {"leftEye":"./eyes/happy_left.png","rightEye":"./eyes/happy_right.png","mouth":"./mouths/happy.png","layout":{"eyes":{"scale":[1.6,1.6],"offset":[0,-0.07,0]},"mouth":{"scale":[1.35,1.25],"offset":[0,-0.02,0]}}},
+  "angry": {"leftEye":"./eyes/angry_left.png","rightEye":"./eyes/angry_right.png","mouth":"./mouths/angry.png","layout":{"eyes":{"scale":[1.55,1.7],"offset":[0,-0.1,0]},"mouth":{"scale":[1.25,1.15],"offset":[0,-0.02,0]}}},
+  "sad": {"leftEye":"./eyes/sad_left.png","rightEye":"./eyes/sad_right.png","mouth":"./mouths/sad.png","layout":{"eyes":{"scale":[1.55,1.7],"offset":[0,-0.1,0]},"mouth":{"scale":[1.2,1.1],"offset":[0,-0.02,0]}}},
+  "cry": {"leftEye":"./eyes/cry_left.png","rightEye":"./eyes/cry_right.png","mouth":"./mouths/cry.png","layout":{"eyes":{"scale":[1.65,1.8],"offset":[0,-0.11,0]},"mouth":{"scale":[1.4,1.35],"offset":[0,-0.03,0]}}},
+  "surprised": {"leftEye":"./eyes/surprised_left.png","rightEye":"./eyes/surprised_right.png","mouth":"./mouths/surprised.png","layout":{"eyes":{"scale":[1.6,1.75],"offset":[0,-0.09,0]},"mouth":{"scale":[1.3,1.35],"offset":[0,-0.02,0]}}},
+  "closed": {"leftEye":"./eyes/closed_left.png","rightEye":"./eyes/closed_right.png","mouth":"./mouths/closed.png","layout":{"eyes":{"scale":[1.6,1.5],"offset":[0,-0.08,0]},"mouth":{"scale":[1.2,1.05],"offset":[0,-0.02,0]}}},
+  "blank": {"leftEye":"./eyes/blank_left.png","rightEye":"./eyes/blank_right.png","mouth":"./mouths/blank.png","layout":{"eyes":{"scale":[1.5,1.7],"offset":[0,-0.09,0]},"mouth":{"scale":[1.15,1.0],"offset":[0,-0.02,0]}}},
+  "sleepy": {"leftEye":"./eyes/sleepy_left.png","rightEye":"./eyes/sleepy_right.png","mouth":"./mouths/sleepy.png","layout":{"eyes":{"scale":[1.6,1.4],"offset":[0,-0.09,0]},"mouth":{"scale":[1.15,1.0],"offset":[0,-0.02,0]}}},
+  "panic": {"leftEye":"./eyes/panic_left.png","rightEye":"./eyes/panic_right.png","mouth":"./mouths/panic.png","layout":{"eyes":{"scale":[1.6,1.75],"offset":[0,-0.1,0]},"mouth":{"scale":[1.45,1.4],"offset":[0,-0.03,0]},"leftEye":{"scale":[1.75,1.9],"offset":[0,-0.1,0]},"rightEye":{"scale":[1.5,1.65],"offset":[0,-0.1,0]}}},
+  "wink_left": {"leftEye":"./eyes/wink_left_left.png","rightEye":"./eyes/wink_left_right.png","mouth":"./mouths/wink_left.png","layout":{"eyes":{"scale":[1.55,1.6],"offset":[0,-0.08,0]},"mouth":{"scale":[1.25,1.15],"offset":[0,-0.02,0]}}},
+  "wink_right": {"leftEye":"./eyes/wink_right_left.png","rightEye":"./eyes/wink_right_right.png","mouth":"./mouths/wink_right.png","layout":{"eyes":{"scale":[1.55,1.6],"offset":[0,-0.08,0]},"mouth":{"scale":[1.25,1.15],"offset":[0,-0.02,0]}}}
+}
