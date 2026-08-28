@@ -20,9 +20,7 @@
   ],
   "scripts": {
     "facialize": "node tools/facialize-model.mjs",
-    "check": "node --check src/index.js && node --check src/runtime/TextureRepository.js && node --check src/runtime/TextureAtlasCoverageController.js && node --check src/runtime/FaceOverlayController.js && node --check src/runtime/ExpressionController.js && node --check src/runtime/createFacialSystem.js && node --check src/runtime/setupFace.js && node --check tools/facialize-model.mjs && node --check tools/geometry-pass.mjs && python3 -m py_compile tools/texture-refine.py",
-    "hydrate-assets": "node tools/hydrate-assets.mjs",
-    "prepare": "npm run hydrate-assets"
+    "check": "node --check src/index.js && node --check src/runtime/TextureRepository.js && node --check src/runtime/TextureAtlasCoverageController.js && node --check src/runtime/FaceOverlayController.js && node --check src/runtime/ExpressionController.js && node --check src/runtime/createFacialSystem.js && node --check src/runtime/setupFace.js && node --check tools/facialize-model.mjs && node --check tools/geometry-pass.mjs && python3 -m py_compile tools/texture-refine.py"
   },
   "peerDependencies": {
     "three": ">=0.160.0"
