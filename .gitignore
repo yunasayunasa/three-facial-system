@@ -1,0 +1,7 @@
+tools/__pycache__/
+*.pyc
+# Hydrated from bundles/expression-assets-v16
+assets/expressions/coverage_eye.png
+assets/expressions/coverage_mouth.png
+assets/expressions/default/eyes/
+assets/expressions/default/mouths/
