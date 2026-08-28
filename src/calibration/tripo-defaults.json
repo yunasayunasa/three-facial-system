@@ -1,0 +1,15 @@
+{
+  "preset": "tripo-chibi-v2-front-core",
+  "headWeightThreshold": 0.8,
+  "boundsPercentile": [2, 98],
+  "frontHint": "-Z",
+  "ratios": {
+    "leftEye": { "x01": 0.3509763228, "y01": 0.2270699867, "w": 0.2539781686, "h": 0.2095319974 },
+    "rightEye": { "x01": 0.7261266564, "y01": 0.2270699867, "w": 0.2539781686, "h": 0.2095319974 },
+    "mouth": { "x01": 0.5517010044, "y01": 0.0336558353, "w": 0.2048211037, "h": 0.1289427676 }
+  },
+  "rayMarginDepthRatio": 0.74,
+  "frontCorePercentile": 30,
+  "frontCoreBoundsPercentile": [5, 95],
+  "surfaceBiasCoreWidthRatio": 0.0225306866
+}
