@@ -1,0 +1,632 @@
+{
+  "schema": "three-facial-system/phase4b-shared-render-manifest-v1",
+  "technicalPassExpected": 48,
+  "entries": [
+    {
+      "characterId": "alanaan",
+      "sourceGlb": "phase4b-assets/alanaan/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/alanaan/target.png",
+      "cleanAtlas": "phase4b-assets/alanaan/clean.png",
+      "outputDirectory": "phase4b-renders/alanaan",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "anchira",
+      "sourceGlb": "phase4b-assets/anchira/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/anchira/target.png",
+      "cleanAtlas": "phase4b-assets/anchira/clean.png",
+      "outputDirectory": "phase4b-renders/anchira",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "anila",
+      "sourceGlb": "phase4b-assets/anila/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/anila/target.png",
+      "cleanAtlas": "phase4b-assets/anila/clean.png",
+      "outputDirectory": "phase4b-renders/anila",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "beatrix",
+      "sourceGlb": "phase4b-assets/beatrix/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/beatrix/target.png",
+      "cleanAtlas": "phase4b-assets/beatrix/clean.png",
+      "outputDirectory": "phase4b-renders/beatrix",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "bikara",
+      "sourceGlb": "phase4b-assets/bikara/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/bikara/target.png",
+      "cleanAtlas": "phase4b-assets/bikara/clean.png",
+      "outputDirectory": "phase4b-renders/bikara",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "bowgan",
+      "sourceGlb": "phase4b-assets/bowgan/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/bowgan/target.png",
+      "cleanAtlas": "phase4b-assets/bowgan/clean.png",
+      "outputDirectory": "phase4b-renders/bowgan",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "caim",
+      "sourceGlb": "phase4b-assets/caim/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/caim/target.png",
+      "cleanAtlas": "phase4b-assets/caim/clean.png",
+      "outputDirectory": "phase4b-renders/caim",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "catur",
+      "sourceGlb": "phase4b-assets/catur/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/catur/target.png",
+      "cleanAtlas": "phase4b-assets/catur/clean.png",
+      "outputDirectory": "phase4b-renders/catur",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "essel",
+      "sourceGlb": "phase4b-assets/essel/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/essel/target.png",
+      "cleanAtlas": "phase4b-assets/essel/clean.png",
+      "outputDirectory": "phase4b-renders/essel",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "estariola",
+      "sourceGlb": "phase4b-assets/estariola/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/estariola/target.png",
+      "cleanAtlas": "phase4b-assets/estariola/clean.png",
+      "outputDirectory": "phase4b-renders/estariola",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "fediel",
+      "sourceGlb": "phase4b-assets/fediel/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/fediel/target.png",
+      "cleanAtlas": "phase4b-assets/fediel/clean.png",
+      "outputDirectory": "phase4b-renders/fediel",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "fraux",
+      "sourceGlb": "phase4b-assets/fraux/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/fraux/target.png",
+      "cleanAtlas": "phase4b-assets/fraux/clean.png",
+      "outputDirectory": "phase4b-renders/fraux",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "funf",
+      "sourceGlb": "phase4b-assets/funf/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/funf/target.png",
+      "cleanAtlas": "phase4b-assets/funf/clean.png",
+      "outputDirectory": "phase4b-renders/funf",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "galleon",
+      "sourceGlb": "phase4b-assets/galleon/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/galleon/target.png",
+      "cleanAtlas": "phase4b-assets/galleon/clean.png",
+      "outputDirectory": "phase4b-renders/galleon",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "gran",
+      "sourceGlb": "phase4b-assets/gran/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/gran/target.png",
+      "cleanAtlas": "phase4b-assets/gran/clean.png",
+      "outputDirectory": "phase4b-renders/gran",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "haaselia",
+      "sourceGlb": "phase4b-assets/haaselia/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/haaselia/target.png",
+      "cleanAtlas": "phase4b-assets/haaselia/clean.png",
+      "outputDirectory": "phase4b-renders/haaselia",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "haira",
+      "sourceGlb": "phase4b-assets/haira/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/haira/target.png",
+      "cleanAtlas": "phase4b-assets/haira/clean.png",
+      "outputDirectory": "phase4b-renders/haira",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "ilza",
+      "sourceGlb": "phase4b-assets/ilza/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/ilza/target.png",
+      "cleanAtlas": "phase4b-assets/ilza/clean.png",
+      "outputDirectory": "phase4b-renders/ilza",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "indara",
+      "sourceGlb": "phase4b-assets/indara/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/indara/target.png",
+      "cleanAtlas": "phase4b-assets/indara/clean.png",
+      "outputDirectory": "phase4b-renders/indara",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "jeeta",
+      "sourceGlb": "phase4b-assets/jeeta/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/jeeta/target.png",
+      "cleanAtlas": "phase4b-assets/jeeta/clean.png",
+      "outputDirectory": "phase4b-renders/jeeta",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "katzelia",
+      "sourceGlb": "phase4b-assets/katzelia/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/katzelia/target.png",
+      "cleanAtlas": "phase4b-assets/katzelia/clean.png",
+      "outputDirectory": "phase4b-renders/katzelia",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "kubira",
+      "sourceGlb": "phase4b-assets/kubira/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/kubira/target.png",
+      "cleanAtlas": "phase4b-assets/kubira/clean.png",
+      "outputDirectory": "phase4b-renders/kubira",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "lancelot",
+      "sourceGlb": "phase4b-assets/lancelot/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/lancelot/target.png",
+      "cleanAtlas": "phase4b-assets/lancelot/clean.png",
+      "outputDirectory": "phase4b-renders/lancelot",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "luwoh",
+      "sourceGlb": "phase4b-assets/luwoh/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/luwoh/target.png",
+      "cleanAtlas": "phase4b-assets/luwoh/clean.png",
+      "outputDirectory": "phase4b-renders/luwoh",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "lyria",
+      "sourceGlb": "phase4b-assets/lyria/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/lyria/target.png",
+      "cleanAtlas": "phase4b-assets/lyria/clean.png",
+      "outputDirectory": "phase4b-renders/lyria",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "makira",
+      "sourceGlb": "phase4b-assets/makira/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/makira/target.png",
+      "cleanAtlas": "phase4b-assets/makira/clean.png",
+      "outputDirectory": "phase4b-renders/makira",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "makora",
+      "sourceGlb": "phase4b-assets/makora/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/makora/target.png",
+      "cleanAtlas": "phase4b-assets/makora/clean.png",
+      "outputDirectory": "phase4b-renders/makora",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "maria-theresa",
+      "sourceGlb": "phase4b-assets/maria-theresa/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/maria-theresa/target.png",
+      "cleanAtlas": "phase4b-assets/maria-theresa/clean.png",
+      "outputDirectory": "phase4b-renders/maria-theresa",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "nier",
+      "sourceGlb": "phase4b-assets/nier/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/nier/target.png",
+      "cleanAtlas": "phase4b-assets/nier/clean.png",
+      "outputDirectory": "phase4b-renders/nier",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "okto",
+      "sourceGlb": "phase4b-assets/okto/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/okto/target.png",
+      "cleanAtlas": "phase4b-assets/okto/clean.png",
+      "outputDirectory": "phase4b-renders/okto",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "percival",
+      "sourceGlb": "phase4b-assets/percival/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/percival/target.png",
+      "cleanAtlas": "phase4b-assets/percival/clean.png",
+      "outputDirectory": "phase4b-renders/percival",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "robelia",
+      "sourceGlb": "phase4b-assets/robelia/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/robelia/target.png",
+      "cleanAtlas": "phase4b-assets/robelia/clean.png",
+      "outputDirectory": "phase4b-renders/robelia",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "sanchira",
+      "sourceGlb": "phase4b-assets/sanchira/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/sanchira/target.png",
+      "cleanAtlas": "phase4b-assets/sanchira/clean.png",
+      "outputDirectory": "phase4b-renders/sanchira",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "sarasa",
+      "sourceGlb": "phase4b-assets/sarasa/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/sarasa/target.png",
+      "cleanAtlas": "phase4b-assets/sarasa/clean.png",
+      "outputDirectory": "phase4b-renders/sarasa",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "shatora",
+      "sourceGlb": "phase4b-assets/shatora/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/shatora/target.png",
+      "cleanAtlas": "phase4b-assets/shatora/clean.png",
+      "outputDirectory": "phase4b-renders/shatora",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "siegfried",
+      "sourceGlb": "phase4b-assets/siegfried/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/siegfried/target.png",
+      "cleanAtlas": "phase4b-assets/siegfried/clean.png",
+      "outputDirectory": "phase4b-renders/siegfried",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "siete",
+      "sourceGlb": "phase4b-assets/siete/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/siete/target.png",
+      "cleanAtlas": "phase4b-assets/siete/clean.png",
+      "outputDirectory": "phase4b-renders/siete",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "super-shindara",
+      "sourceGlb": "phase4b-assets/super-shindara/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/super-shindara/target.png",
+      "cleanAtlas": "phase4b-assets/super-shindara/clean.png",
+      "outputDirectory": "phase4b-renders/super-shindara",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "thorn",
+      "sourceGlb": "phase4b-assets/thorn/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/thorn/target.png",
+      "cleanAtlas": "phase4b-assets/thorn/clean.png",
+      "outputDirectory": "phase4b-renders/thorn",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "uno",
+      "sourceGlb": "phase4b-assets/uno/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/uno/target.png",
+      "cleanAtlas": "phase4b-assets/uno/clean.png",
+      "outputDirectory": "phase4b-renders/uno",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "vajra",
+      "sourceGlb": "phase4b-assets/vajra/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/vajra/target.png",
+      "cleanAtlas": "phase4b-assets/vajra/clean.png",
+      "outputDirectory": "phase4b-renders/vajra",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "vane",
+      "sourceGlb": "phase4b-assets/vane/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/vane/target.png",
+      "cleanAtlas": "phase4b-assets/vane/clean.png",
+      "outputDirectory": "phase4b-renders/vane",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "wamdus",
+      "sourceGlb": "phase4b-assets/wamdus/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/wamdus/target.png",
+      "cleanAtlas": "phase4b-assets/wamdus/clean.png",
+      "outputDirectory": "phase4b-renders/wamdus",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "wilnas",
+      "sourceGlb": "phase4b-assets/wilnas/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/wilnas/target.png",
+      "cleanAtlas": "phase4b-assets/wilnas/clean.png",
+      "outputDirectory": "phase4b-renders/wilnas",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "zeta",
+      "sourceGlb": "phase4b-assets/zeta/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/zeta/target.png",
+      "cleanAtlas": "phase4b-assets/zeta/clean.png",
+      "outputDirectory": "phase4b-renders/zeta",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "nio",
+      "sourceGlb": "phase4b-assets/nio/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/nio/target.png",
+      "cleanAtlas": "phase4b-assets/nio/clean.png",
+      "outputDirectory": "phase4b-renders/nio",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "eustace",
+      "sourceGlb": "phase4b-assets/eustace/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/eustace/target.png",
+      "cleanAtlas": "phase4b-assets/eustace/clean.png",
+      "outputDirectory": "phase4b-renders/eustace",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    },
+    {
+      "characterId": "siss",
+      "sourceGlb": "phase4b-assets/siss/source.glb",
+      "normalInput": "embedded-original",
+      "targetVisualization": "phase4b-assets/siss/target.png",
+      "cleanAtlas": "phase4b-assets/siss/clean.png",
+      "outputDirectory": "phase4b-renders/siss",
+      "modes": [
+        "NORMAL",
+        "NATIVE TARGET",
+        "FRESH-F0 CLEAN"
+      ]
+    }
+  ],
+  "failures": [],
+  "status": "READY"
+}
